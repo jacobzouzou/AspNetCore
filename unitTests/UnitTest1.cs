@@ -8,6 +8,7 @@ namespace unitTests
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.Istrue(true);
         }
     }
 }
