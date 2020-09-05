@@ -12,7 +12,10 @@ trigger:
 
 pool:
   vmImage: 'ubuntu-latest'
-
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
+    projects: 'webApp/webApp.csproj'
 variables:
   buildConfiguration: 'Release'
 
