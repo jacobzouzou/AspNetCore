@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevOps\\AspNetCoreApp\\unitTests\\unitTests.csproj": {}
+    "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\unitTests\\unitTests.csproj": {}
   },
   "projects": {
-    "D:\\DevOps\\AspNetCoreApp\\unitTests\\unitTests.csproj": {
+    "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\unitTests\\unitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevOps\\AspNetCoreApp\\unitTests\\unitTests.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\unitTests\\unitTests.csproj",
         "projectName": "unitTests",
-        "projectPath": "D:\\DevOps\\AspNetCoreApp\\unitTests\\unitTests.csproj",
+        "projectPath": "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\unitTests\\unitTests.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "D:\\DevOps\\AspNetCoreApp\\unitTests\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\unitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\DevOps\\AspNetCoreApp\\webApp\\webApp.csproj": {
-                "projectPath": "D:\\DevOps\\AspNetCoreApp\\webApp\\webApp.csproj"
+              "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\webApp\\webApp.csproj": {
+                "projectPath": "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\webApp\\webApp.csproj"
               }
             }
           }
@@ -73,29 +75,34 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\DevOps\\AspNetCoreApp\\webApp\\webApp.csproj": {
+    "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\webApp\\webApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevOps\\AspNetCoreApp\\webApp\\webApp.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\webApp\\webApp.csproj",
         "projectName": "webApp",
-        "projectPath": "D:\\DevOps\\AspNetCoreApp\\webApp\\webApp.csproj",
+        "projectPath": "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\webApp\\webApp.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "D:\\DevOps\\AspNetCoreApp\\webApp\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\webApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -135,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Syo3UhwFIVlwtHXUtikMjuVzlYUhbLYRDazizhMjHGomNqxd9Xc6cH9YjZw4TRJzFRAfUvnQ8Jdqd8DMDh7PQ==",
+  "dgSpecHash": "MVXkU8cAPunRXzpbu56ep094CIZyOcFbyvoiM4g+MoEna+HvpnWjWgZUqukW7zK3MlQWLypUNwou++aTANMTpA==",
   "success": true,
-  "projectFilePath": "D:\\DevOps\\AspNetCoreApp\\webApp\\webApp.csproj",
+  "projectFilePath": "C:\\Users\\jacob\\source\\repos\\Projects\\Misc\\AspNetCore\\webApp\\webApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
